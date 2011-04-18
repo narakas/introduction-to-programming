@@ -1,0 +1,33 @@
+#content {
+	width:760px;
+}
+
+.inlineBookmark {
+	margin-bottom:5px;
+	margin-top:5px;
+}
+
+.subsection {
+	margin-top:15px;
+	padding-left:15px;
+}
+
+.subsection h4 {
+	color: #666;
+	font-family: "Helvetica Neue CE 77 Bold Condensed", "Helvetica Neue LT 77 Bold Condensed", "Helvetica Neue 77 Bold Condensed", "HelveticaNeue-BoldCondensed", "Helvetica Neue Bold Condensed", "Helvetica Neue", "Helvetica", "Arial", sans-serif;	
+	font-size: 16px;
+	font-stretch: condensed;
+	font-weight:600;
+	padding: 0;
+	margin-top:10px;
+}
+
+.subsection p {
+	font-size: 16px;
+	padding-left:15px;
+}
+
+.stepDescription {
+	margin-left:15px;
+}
+
